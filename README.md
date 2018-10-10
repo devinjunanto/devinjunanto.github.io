@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+## Devin Junanto
 
-You can use the [editor on GitHub](https://github.com/devinjunanto/devinjunanto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Enthusiastic and workaholic Computer Scientist with a lot of bright ideas. Competent with a variety of programming skills. Found joy with self-investment and self-motivating along with motivating and educating others. Passionate with computer security and software development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+\*### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block*\
 
 # Header 1
 ## Header 2
